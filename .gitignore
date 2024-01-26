@@ -1,0 +1,7 @@
+.cph
+.vscode
+*.html
+*.js
+*.exe
+*.json
+*.bin
